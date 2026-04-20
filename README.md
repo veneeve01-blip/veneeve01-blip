@@ -20,4 +20,4 @@
 ---
 
 ## 📂 Projects
-(Will update soon)
+- Simple Calculator 
