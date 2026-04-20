@@ -1,15 +1,23 @@
-# Hi, I'm Vene 👋
+# Hi, I'm Venesha 👋
 
 🎓 BCA Student  
-💻 Learning Programming and AI  
+💻 Aspiring Software Developer  
 📍 India  
 
 ---
 
 ## 🚀 Skills
-- Python (Beginner)
+- Python
 - C Programming
 - HTML & CSS
+- Basics of Artificial Intelligence
+
+---
+
+## 📂 Projects
+- 🧮 Smart Calculator  
+- 🎓 Student Management System  
+- 🧠 NLP Text Analyzer  
 
 ---
 
@@ -19,5 +27,5 @@
 
 ---
 
-## 📂 Projects
-- Simple Calculator 
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/venesha-evangeline
