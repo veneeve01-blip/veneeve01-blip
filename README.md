@@ -15,9 +15,9 @@
 ---
 
 ## 📂 Projects
-- 🧮 Smart Calculator  
-- 🎓 Student Management System  
-- 🧠 NLP Text Analyzer  
+- [Smart Calculator](https://github.com/veneeve01-blip/smart-calculator-python)  
+- [Student Management System](https://github.com/veneeve01-blip/student-management-system)  
+- [NLP Text Analyzer](https://github.com/veneeve01-blip/nlp-text-analyzer) 
 
 ---
 
